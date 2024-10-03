@@ -1,7 +1,7 @@
 ---
 title: "General Social Survey"
-author: "Your Name"
-date: "Year 2020"
+author: "Alexandra Munoz"
+date: "fall 2024"
 output: 
   html_document:
     number_sections: true
@@ -30,6 +30,12 @@ First question - Is opinion on the death penalty (CAPPUN) independent of gun own
 ## Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+Question : Is gun ownership independent of opinion on capital punishment?
+
+$H_0$ :Gun ownership and opinion on capital punishment are not related  
+
+$H_A$ : Gun ownership and opinion on capital punishment are related 
 
 ##Results
 
